@@ -35,5 +35,9 @@ The objective is to fork this project, create a file using an interactive script
 
 ![Create pull request](./imgs/Screen Shot 2016-06-08 at 10.06.14 AM.png)
 
-## Follow the steps to complete the Pull Request, and wait for it to be merged.
+## Click the "Compare & pull request" button.
+
+![Create pull request](./imgs/screen_shot_2016-06-08_at_10.22.54_am.png)
+
+## Click "Create pull request" to submit, and wait for it to be merged.
 
